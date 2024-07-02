@@ -1,0 +1,2 @@
+module change2 {
+}
